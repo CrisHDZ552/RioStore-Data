@@ -3,10 +3,20 @@
     "id": "1",
     "name": "RioStore",
     "version": "1.0.0",
+    "packageName": "com.example.riostore",
+    "description": "Descarga o actualiza aplicaciones de forma mas facil y rapida.",
+    "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/store_icon.png",
+    "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_store.apk",
+    "size": "12.29 MB"
+  },
+    {
+    "id": "2",
+    "name": "RioPlayer",
+    "version": "1.0.0",
     "packageName": "com.example.musictheme",
     "description": "Reproductor de música premium con interfaz estilizada y ecualizador local.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/music_icon.png",
     "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_player.apk",
-    "size": "4.2 MB"
+    "size": "69.75 MB"
   }
 ]
