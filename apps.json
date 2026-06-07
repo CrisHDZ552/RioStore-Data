@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "name": "SonicPlayer",
+    "name": "RioStore",
     "version": "1.0.0",
     "packageName": "com.example.musictheme",
-    "description": "Reproductor de música con soporte para navegación de carpetas locales.",
-    "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RiuStore-Data/main/icons/music_icon.png",
-    "apkUrl": "https://github.com/CrisHDZ552/RiuStore-Data/raw/main/apks/Riu_player.apk",
+    "description": "Reproductor de música premium con interfaz estilizada y ecualizador local.",
+    "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/music_icon.png",
+    "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_player.apk",
     "size": "4.2 MB"
   }
 ]
