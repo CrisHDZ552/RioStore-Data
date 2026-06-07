@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "RioStore",
+    "name": "Rio Store",
     "version": "1.0.0",
     "packageName": "com.example.riostore",
     "description": "Descarga o actualiza aplicaciones de forma mas facil y rapida.",
@@ -11,7 +11,7 @@
   },
     {
     "id": "2",
-    "name": "RioPlayer",
+    "name": "Rio Player",
     "version": "1.0.0",
     "packageName": "com.example.musictheme",
     "description": "Reproductor de música premium con interfaz estilizada y ecualizador local.",
