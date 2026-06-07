@@ -12,11 +12,11 @@
     {
     "id": "2",
     "name": "Rio Player",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "packageName": "com.example.musictheme",
     "description": "Reproductor de música premium con interfaz estilizada y ecualizador local.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/music_icon.png",
     "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_player.apk",
-    "size": "73.27 MB"
+    "size": "73.30 MB"
   }
 ]
