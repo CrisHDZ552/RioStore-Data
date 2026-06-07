@@ -2,12 +2,12 @@
   {
     "id": "1",
     "name": "Rio Store",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "packageName": "com.example.riostore",
     "description": "Descarga o actualiza aplicaciones de forma mas facil y rapida.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/store_icon.png",
     "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_store.apk",
-    "size": "12.29 MB"
+    "size": "13.20 MB"
   },
     {
     "id": "2",
