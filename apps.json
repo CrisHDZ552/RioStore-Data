@@ -7,6 +7,8 @@
     "description": "Descarga o actualiza aplicaciones de forma mas facil y rapida.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/store_icon.png",
     "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_store.apk",
+    "cambio_0000000000": "Se modifico la vista totalmente de todo la interfaz",
+    "cambio_0000000001": "Se modifico los iconos para que se vea visible",
     "size": "20.02 MB"
   },
     {
@@ -17,6 +19,8 @@
     "description": "Reproductor de música premium con interfaz estilizada y ecualizador local.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/music_icon.png",
     "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_player.apk",
+    "cambio_0000000000": "Se modifico la vista totalmente de todo la interfaz",
+    "cambio_0000000001": "Se modifico los iconos para que se vea visible",
     "size": "73.30 MB"
   }
 ]
