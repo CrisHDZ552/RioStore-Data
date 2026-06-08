@@ -30,14 +30,10 @@
     "size": "73.30 MB"
   },
     {
-    "id": "2",
+    "id": "3",
     "name": "Rio Files",
-    "version": "0.0.1",
     "estado": "proximo",
-    "packageName": "com.example.musictheme",
     "description": "Aplicacion dedicada para ver, editar y eliminar carpetas del sistema.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/music_icon.png",
-    "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_player.apk",
-    "size": "73.30 MB"
   }
 ]
