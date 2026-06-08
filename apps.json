@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Rio Store",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "estado": "activo",
     "packageName": "com.example.riostore",
     "description": "Descarga o actualiza aplicaciones de forma mas facil y rapida.",
