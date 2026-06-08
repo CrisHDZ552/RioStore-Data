@@ -2,12 +2,15 @@
   {
     "id": "1",
     "name": "Rio Store",
-    "version": "1.0.2",
+    "version": "1.0.3",
+    "estado": "activo",
     "packageName": "com.example.riostore",
     "description": "Descarga o actualiza aplicaciones de forma mas facil y rapida.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/store_icon.png",
     "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_store.apk",
+    "titulo_0000000000": "Se modifico la vista totalmente de todo la interfaz",
     "cambio_0000000000": "Se modifico la vista totalmente de todo la interfaz",
+    "titulo_0000000001": "Se modifico los iconos para que se vea visible",
     "cambio_0000000001": "Se modifico los iconos para que se vea visible",
     "size": "20.02 MB"
   },
@@ -15,12 +18,26 @@
     "id": "2",
     "name": "Rio Player",
     "version": "1.0.1",
+    "estado": "activo",
     "packageName": "com.example.musictheme",
     "description": "Reproductor de música premium con interfaz estilizada y ecualizador local.",
     "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/music_icon.png",
     "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_player.apk",
+    "titulo_0000000000": "Se modifico la vista totalmente de todo la interfaz",
     "cambio_0000000000": "Se modifico la vista totalmente de todo la interfaz",
+    "titulo_0000000001": "Se modifico los iconos para que se vea visible",
     "cambio_0000000001": "Se modifico los iconos para que se vea visible",
+    "size": "73.30 MB"
+  },
+    {
+    "id": "2",
+    "name": "Rio Files",
+    "version": "0.0.1",
+    "estado": "proximo",
+    "packageName": "com.example.musictheme",
+    "description": "Aplicacion dedicada para ver, editar y eliminar carpetas del sistema.",
+    "iconUrl": "https://raw.githubusercontent.com/CrisHDZ552/RioStore-Data/main/icons/music_icon.png",
+    "apkUrl": "https://github.com/CrisHDZ552/RioStore-Data/raw/main/apks/rio_player.apk",
     "size": "73.30 MB"
   }
 ]
